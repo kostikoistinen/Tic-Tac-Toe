@@ -27,6 +27,10 @@ Description
 	Contains also a scoreboard made with SQL querys.
 <br />
 <br />
+Game types are board size of min.2x2, max. recommended 10x10, but it's free to choose.
+Winning conditions are minimum of 2 in a row,column or diagonal, max. the size of board.
+<br />
+<br />
 2) Teaching module
 <br />
 	An unsupervised deep neural network model is constructed depending on size and the winning conditions. After teaching, the AI can be tested. It can play against a random generator. Finally the statistics are printed to see if AI works. AI is then saved, and can be run from the Game. Note that for each grid size AI model is different! There is a default AI trained for 3x3 board if you do not wish to train it yourself. Note that in teaching module, after training, you can simulate AI against random behaviour player to obtain simple statistics of AI performance. Just run the teaching-file again.
