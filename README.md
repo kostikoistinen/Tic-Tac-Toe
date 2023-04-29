@@ -12,7 +12,7 @@ INSTRUCTIONS 1:
 <br />
 Go into python folder.
 <br />
-The program contains two python files, run separately.
+The program contains two python files, download and run separately. Download also the default trained model (working_AI.h5).
 <br />
 1) The game
 2) Teaching module
@@ -40,7 +40,7 @@ INSTRUCTIONS 2:
 <br />
 1) The game and teaching module
 <br />
-	Download the jupyter notebook file (in jupyterfile folder) and run the file in jupyter notebook. There are two segments, The game - cell and the training - cell.
+	Download the jupyter notebook file (in jupyterfile folder) and run the file in jupyter notebook. Download also the default trained model (working_AI.h5). There are two segments in notebook, The game - cell and the training - cell.
 <br />
 ................................
 <br />
