@@ -10,6 +10,7 @@ Quickstart:
 <br />
 If you just want to try out the game, run Tic-Tac-Toe.py. If you'd like to train the AI, first train it in Teach-AI.py. Have fun!
 <br />
+<br />
 
 	import tkinter as tk
 	from tkinter import messagebox
