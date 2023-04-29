@@ -1,0 +1,4 @@
+Instructions:
+
+1) Download the file
+2) Run it in Jupyter notebook. Upper cell is the game and lower is the training cell.
