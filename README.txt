@@ -2,7 +2,7 @@
 
 Read me file on Tic-Tac-Toe
 
-The repository contains a Tic-Tac-Toe - game. It can be run either with .py files straight from prompt, or from Jupyter notebook. Note that one needs a lot of packages to run the files. Below are instructions for running the program from .py - files and from jupyter notebook. Also the required packages are enlisted. THE FULL DOCUMENTATION IS WITHIN THE CODE!
+The repository contains a Tic-Tac-Toe - game. It can be run either with .py files straight from prompt, or from Jupyter notebook. Note that one needs a lot of packages to run the files. Below are instructions for running the program from .py - files and from jupyter notebook. Also the required packages are enlisted. THE FULL DOCUMENTATION IS WITHIN THE CODE! See also statistics, there are some evidence of the functioning AI.
 ............................
 INSTRUCTIONS 1:
 
