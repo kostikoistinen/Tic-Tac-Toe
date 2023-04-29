@@ -5,20 +5,11 @@ Read me file on Tic-Tac-Toe
 The repository contains a Tic-Tac-Toe - game made with python 3.8. It can be run either with .py files straight from prompt (Instructions 1), or from Jupyter notebook (Instructions 2). Note that one needs a lot of packages to run the files. Below are instructions for running the program from .py - files and from jupyter notebook. Also the required packages are enlisted. THE FULL DOCUMENTATION IS WITHIN THE CODE! See also statistics, there are some evidence of the functioning AI.
 <br />
 <br />
-............................
-<br />
-INSTRUCTIONS 1:
-<br />
-<br />
-Go into python folder.
-<br />
-The program contains two python files, download and run separately. Download also the default trained model (working_AI.h5).
-<br />
+
+Description: <br />
 1) The game
 2) Teaching module
 <br />
-<br />
-Description
 <br />
 1) The Game
 <br />
@@ -36,7 +27,15 @@ Winning conditions are minimum of 2 in a row,column or diagonal, max. the size o
 	An unsupervised deep neural network model is constructed depending on size and the winning conditions. After teaching, the AI can be tested. It can play against a random generator. Finally the statistics are printed to see if AI works. AI is then saved, and can be run from the Game. Note that for each grid size AI model is different! There is a default AI trained for 3x3 board if you do not wish to train it yourself. Note that in teaching module, after training, you can simulate AI against random behaviour player to obtain simple statistics of AI performance. Just run the teaching-file again.
 <br />
 <br />
-More details in comments within the files.
+More details in comments within the files. <br />
+............................
+<br />
+INSTRUCTIONS 1:
+<br />
+<br />
+Go into python folder.
+<br />
+The program contains two python files, download and run separately. Download also the default trained model (working_AI.h5).
 <br />
 ................................
 <br />
