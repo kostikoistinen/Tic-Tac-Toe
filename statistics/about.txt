@@ -1,0 +1,7 @@
+Some figures to illustrate the performance of AI.
+
+Figure 1: AI wins and draws against a random player. Wins+draws are drawn with solid lines, while expected values are drawn with dashed line. Expected values were calculated from 10000 trials. The scattered dots are the results from 50 to 300 simulated games with AI against random player. The Chi squared value was calculated for each result. The AI model was tested against null hypothesis that playing is random and thus AI doesn't work. The low performance (or null hypothesis = AI doesn't work) are marked with black spots. It could be due to low performance, as the AI seems to work most of the time. As the game board size increases, the greedy behaviour of AI model pays off: the random movement cannot prevent AI from making the winning streak. With smaller boards the greedy behaviour works most of the time. With average board size, the greedy model doesn't work because random movement blocks the AI. It could be also that AI tries to be defensive at 4x4 to 6x6 board, typically failing.
+
+Figure 2: Same plot but with only wins of AI player plotted.
+
+Figure 3: AI performance in means of Win and loss functions obtained from Keras data. Keras gives performance data while teaching the DNN-model. As the loss function value gets smaller, the performance gets better. This is, however, not a sign of model improvement in this case, but rather the random playment not sufficating the simple behaviour of the network. 
