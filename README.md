@@ -77,7 +77,7 @@ NOTES: <br />
 I tried to combine the program into one executable file for convinience, but unfortunately, the pyinstaller didn't support tensorflow.
 <br />
 <br />
-Note that keras can have some issues if python is not adapted with GPU. Regardless of warning messages the program should still work. I ran the program with jupyter and didn't face any issues. If python program doesn't work, one can also try to download the jupyter file and run it inside jupyter notebook environment.
+Note that keras can have some issues if python is not adapted with GPU. Regardless of warning messages the program should still work. I ran the program with jupyter and didn't face any issues. If python program doesn't work, one can also try to download the jupyter file and run it inside jupyter notebook environment. Finally, I used Jupyter notebook running using Ubuntu 22.04. It can cause some conflicts for Windows users (it shoudn't though).
 	<br />
 	<br />
 - Kosti Koistinen
