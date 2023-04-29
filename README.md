@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe game with Deep neural network teaching program
 
 Read me file on Tic-Tac-Toe
 
