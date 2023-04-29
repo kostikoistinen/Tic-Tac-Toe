@@ -10,7 +10,9 @@ The repository contains a Tic-Tac-Toe - game made with python 3.8. It can be run
 INSTRUCTIONS 1:
 <br />
 <br />
-This program contains two python files, run separately.
+Go into python folder.
+<br />
+The program contains two python files, run separately.
 <br />
 1) The game
 2) Teaching module
@@ -38,7 +40,7 @@ INSTRUCTIONS 2:
 <br />
 1) The game and teaching module
 <br />
-	Download the jupyter notebook file and run the file in jupyter notebook. There are two segments, The game - cell and the training - cell.
+	Download the jupyter notebook file (in jupyterfile folder) and run the file in jupyter notebook. There are two segments, The game - cell and the training - cell.
 <br />
 ................................
 <br />
